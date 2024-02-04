@@ -1,0 +1,9 @@
+  - type: polymorph
+    id: KitsuneMorph
+    entity: MobKitsuneFox
+    transferName: true
+    inventory: Transfer
+    transferDamage: true
+    revertOnCrit: true
+    revertOnDeath: true
+    transferHumanoidAppearance: true
